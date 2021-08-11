@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning frontend development
 - 💻 I’m currently develop my portifólio and some personal projects
 - 🥅 2021 Goals: Get a Job
-- ⚡ Fun fact: I love go to the beach, travel and watch movie
+- ⚡ Fun fact: I love go to the beach, travel and watch movies
 - 🐱‍🚀 Cat's name: Minerva
 
 <br />
