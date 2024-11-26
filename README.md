@@ -1,9 +1,8 @@
 ### Hi there, I'm Morvan 👋
 
-- 🔭 I'm #OpenToWork
-- 🌱 I’m currently learning frontend development
-- 💻 I’m currently develop my portifólio and some personal projects
-- 🥅 2022 Goals: Get a Job
+- 🌱 I’m currently learning Cloud Solutions Architect
+- 💻 I’m currently working at Convem Software House
+- 🥅 2025 Goals: Get SAA Certificate
 - ⚡ Fun fact: I love go to the beach, travel and watch movies
 - 🐱‍🚀 Cat's name: Minerva
 
