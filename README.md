@@ -1,10 +1,9 @@
 ### Hi there, I'm Morvan 👋
 
-- 🌱 I’m currently learning Cloud Solutions Architect
-- 💻 I’m currently working at Convem Software House
-- 🥅 2025 Goals: Get SAA Certificate
-- ⚡ Fun fact: I love go to the beach, travel and watch movies
-- 🐱‍🚀 Cat's name: Minerva
+- 🌱 I’m learning AI Solutions
+- 💻 I’m working at Convem Software House
+- 🥅 2025 Goals: Get AI Certificate
+- ⚡ AWS SAA
 
 <br />
 
